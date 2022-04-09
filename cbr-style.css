@@ -1,0 +1,20 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,700&family=Noto+Sans+Bengali&family=Poppins&family=Roboto+Serif&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.sec-bg{
+    background-color: #264653;
+    color: white;
+}
+.clr1{
+    color: 
+    #E76F51;
+}
+.fa-solid{
+    color: #E77C40;
+}
+.blank-star{
+    color: black;
+}
