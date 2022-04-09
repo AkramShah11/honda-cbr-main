@@ -4,10 +4,27 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.sec-bg{
+
+header{
     background-color: #264653;
     color: white;
 }
+.nav-txt{
+    color: white;
+    font-size: 16px;
+    font-weight: 800px;
+}
+
+.login{
+    background-color: #E76F51;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    
+    font-weight: 800px;
+    border-radius: 8px;
+    border: 0px;
+}
+
 .clr1{
     color: 
     #E76F51;
@@ -17,4 +34,10 @@ body{
 }
 .blank-star{
     color: black;
+}
+
+footer{
+    background-color: #0B0D17;
+    color: white;
+    padding: 30px 20px 20px 20px;
 }
